@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 naikk swagat
 swagat
+=======
+swagath
+>>>>>>> 0181033 (File added)
