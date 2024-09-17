@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 swagat naik
+=======
+Swagat naik
+bangalor,karnataka
+soldevanhaliii
+
+
+
+new branch is created and new line
+.
+.
+.
+vikas
+>>>>>>> fa3a5cf (file user4)
