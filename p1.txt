@@ -1,11 +1,2 @@
-Swagat naik
-bangalor,karnataka
-soldevanhaliii
-
-
-
-new branch is created and new line
-.
-.
-.
-vikas
+new line added in master
+swagath naik
