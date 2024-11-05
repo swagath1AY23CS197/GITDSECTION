@@ -1,5 +1,6 @@
 Swagat naik
 bangalor,karnataka
+<<<<<<< HEAD
 soldevanhaliii
 
 
@@ -9,3 +10,5 @@ new branch is created and new line
 .
 .
 vikas
+=======
+>>>>>>> parent of 4bf7b96 (File added with added line)
