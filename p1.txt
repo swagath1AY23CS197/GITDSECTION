@@ -4,6 +4,7 @@ bangalor,karnataka
 soldevanhaliii
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -21,3 +22,5 @@ vikas
 >>>>>>> parent of 3e1faf6 (New branch created p1.txt)
 =======
 >>>>>>> parent of fa3a5cf (file user4)
+=======
+>>>>>>> parent of 3e1faf6 (New branch created p1.txt)
