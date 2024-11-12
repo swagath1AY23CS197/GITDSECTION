@@ -1,19 +1,27 @@
 Swagat naik
 bangalor,karnataka
 <<<<<<< HEAD
+<<<<<<< HEAD
 soldevanhaliii
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+soldevanhaliii
+>>>>>>> parent of 0ee5ecf (new line Update p1.txt)
 
 
 
 new branch is created and new line
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 0ee5ecf (new line Update p1.txt)
 .
 .
 .
 vikas
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 4bf7b96 (File added with added line)
 =======
@@ -24,3 +32,5 @@ vikas
 >>>>>>> parent of fa3a5cf (file user4)
 =======
 >>>>>>> parent of 3e1faf6 (New branch created p1.txt)
+=======
+>>>>>>> parent of 0ee5ecf (new line Update p1.txt)
